@@ -1,0 +1,21 @@
+#container-login {
+    padding-top: 70px;
+}
+
+.custom-margin-bottom{
+	margin-bottom:10px;
+}
+
+.defaul-bg{
+	background-color: #eeeeee;
+}
+
+.btn-custom,
+.btn-custom:hover,
+.btn-custom:active,
+.btn-custom:visited,
+.btn-custom:focus {
+    background-color: #212121;
+    border-color: #212121;
+    color: #FFFFFF;
+}
