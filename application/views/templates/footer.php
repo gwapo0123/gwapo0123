@@ -13,13 +13,13 @@
     	$('#datatable').DataTable();
 	});
 
-	// $('#div_google_map').ready( function() {
- //    var time = 5
- //    setInterval( function() {
- //        time--;
- //        if (time === 0) {
- //            location.reload()
- //        }    
- //    }, 5000 );
-// });
+	$('#div_google_map').ready( function() {
+    var time = 5
+    setInterval( function() {
+        time--;
+        if (time === 0) {
+            location.reload()
+        }    
+    }, 1000 );
+});
 </script>

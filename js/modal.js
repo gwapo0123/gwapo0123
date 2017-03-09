@@ -1,4 +1,4 @@
-var base_url = "http://localhost/ass_web";
+var base_url = "http://localhost:8080/ass_web";
 
 $(function(){
 
